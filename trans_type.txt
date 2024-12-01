@@ -1,0 +1,8 @@
+trans_type	Trans_desc
+1	Cash
+2	POS
+3	Online
+4	Foreign - O
+5	Foreign - P
+6	Foreign - C
+0	Other
